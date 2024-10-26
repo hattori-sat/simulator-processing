@@ -133,7 +133,7 @@ if __name__ == '__main__':
     steps = int(total_time / h)
 
     # シミュレーションループ
-    send_interval = 0.1  # データ送信の間隔（秒）
+    send_interval = 0.05  # データ送信の間隔（秒）
     next_send_time = 0.0  # 次に送信する時刻　
     for step in range(steps):
         # 時間更新

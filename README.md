@@ -11,3 +11,8 @@ pythonとprocessingのコードの２つがあります。
 分けている理由としては、以下の2点があります。
 - pythonで何らかの演算、processingは表示するだけと役割を分けたい
 - pythonの方が物理シミュレーションを行える機能が多数ある。
+
+# two-body-simulator
+[two-body-simulator](/two-body-simulator/)は今回のメインのコードです。  
+2次元座標系における2つの物体のシミュレーションを行えます。
+
